@@ -1,5 +1,5 @@
-Time series movies for different forcings under each ice sheet model - climate model combination
+Time sesries movies for different ice sheet models under each forcing - climate model combination
 
-Naming: ISM-CM(climate model).avi
-  ISM: UAF-PISM1, SICOPOLIS1, SICOPOLIS2, NCAR-CISM and JPL-ISSM
+Naming: Forcing-CM.avi
+  Forcing: OO, AO or Full
   CM: MIROC5, NorESM and CSIRO3
