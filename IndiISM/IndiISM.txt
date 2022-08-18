@@ -1,0 +1,5 @@
+This folder is for the movies comparing forcing responses on every climate model - ice sheet model pair.
+
+Naming: Forcing-ISM(ice sheet model).avi
+  Forcing: OO, AO or Full
+  ISM: UAF1(PISM), PIK1(SICOPOLIS1), PIK2(SICOPOLIS2), NCAR(CISM) and JPL(ISSM)
